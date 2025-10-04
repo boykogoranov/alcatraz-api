@@ -1,3 +1,3 @@
-replicas = "5" 
+replicas = "3"
 
 docker_image = "ghcr.io/boykogoranov/ping-api:latest"
